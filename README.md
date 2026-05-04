@@ -38,6 +38,7 @@ The application uses a menu-driven interface where users select operations using
 ---
 
 ## ▶️ How to Run
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/navyasri-engineer/student-management-system.git
